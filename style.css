@@ -1,0 +1,153 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.logoimg{
+	display: inline-block;
+
+}
+.logoimg{
+	margin-top: 30px;
+}
+#logoname h3{
+	padding-bottom:20px;
+	margin: 0;
+	transform: translateY(-18px);
+	color: grey;
+
+}
+.logo{
+	/*border: 2px solid red;*/
+	box-sizing: border-box;
+	float: left;
+	width: 30%;
+	/*padding-left: 200px;*/
+	overflow: hidden;
+
+}
+.social{
+	/*width:70%;*/
+	/*border: 2px solid grey;*/
+	box-sizing: border-box;
+	float: right;
+	/*padding-left: 150px;
+	margin-top: 10px; 
+	margin-right: 250px;*/
+	transition: 1s ease 1s
+}
+.social:hover{
+	color: #0EAA21;
+}
+
+}
+.wrapper{
+	width: 70%;
+	margin: 0 auto;
+}
+.icon{
+	display: inline-block;
+	margin-top: 30px;
+}
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding-right: 30px;
+	font-family: sans-serif;
+	color: grey;
+	font-weight: bold;
+}
+.menu span{
+	color: #0EAA21;
+}
+.menu{
+	margin-left: 208px;
+}
+.log{
+	border-bottom: 2px solid grey;
+	box-sizing: border-box;
+	overflow: hidden;
+	width: 70%;
+	margin-left: 250px;
+}
+.sliderback{
+	position: absolute;
+	/*width: 100%;*/
+	/*border: 1px solid black;*/
+	width: 100%;
+}
+.sliderback img{
+	width: 100%;
+}
+.sliderimg{
+	position: relative;
+	text-align: center;
+	margin-top: 190px;
+}
+.bodytext{
+	text-align: center;
+	width: 70%;
+	padding-left: 250px;
+	color: grey;
+	font-family: sans-serif;
+}
+.button{
+	text-align: center;
+	/*background-color: powderblue;*/
+}
+.button input{
+	color: white;
+	height: 50px;
+	width: 180px;
+	background-color: #0EAA21;
+
+}
+.button input button{
+	background-color: powderblue;
+}
+.lasttext{
+	float: left;
+	/*width: 50%;*/
+	margin-left: 200px;
+	margin-top: 10px;
+	color: white;
+	font-family: sans-serif;
+
+}
+.lastinput{
+	float: right;
+	/*width: 40%;*/
+	margin-top: 20px;
+	margin-right: 200px;
+
+}
+.lastinput input{
+	color: white;
+	height: 50px;
+	width: 180px;
+	background-color: #0EAA21;
+
+}
+.last{
+	/*border: 2px solid red;*/
+	height: 100px;
+	background-color: #3A3C3A;
+	margin-top: 20px;
+}
+.menus ul{
+	list-style: none;
+}
+.menus ul li{
+	display: inline-block;
+}
+.menus{
+	float: right;
+	margin-right: 200px;
+
+}
+.right{
+	float: left;
+	margin-left: 200px;
+}
+.footer{
+	color: grey;
+}
